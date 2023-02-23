@@ -1,4 +1,4 @@
-# DataAnalysisProject1
+# Udemy Dashboard
 
 Datasets:
 edx_course_description from Kaggle, 
